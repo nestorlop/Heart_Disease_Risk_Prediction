@@ -210,7 +210,7 @@ No inference endpoint was created or deployed.
 
 The following screenshot shows the SageMaker notebook and the model training execution.
 
-![Sagemaker Training](images/Image.png)
+![Sagemaker Training](images/Image_4.png)
 ![Sagemaker Training](images/Image_1.png)
 ![Sagemaker Training 2](images/image_2.png)
 
